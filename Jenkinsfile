@@ -10,6 +10,11 @@ pipeline {
                 echo 'Hello World'
             }
         }
+        stage('Hi') {
+            steps {
+                echo 'Hi guys how are you...!'
+            }
+        }
         stage('SCM') {
             steps {
                 git 'https://github.com/rameshsony/test-world.git'
