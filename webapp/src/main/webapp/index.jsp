@@ -1,6 +1,19 @@
-<h1> Hello, Welcome to RS Technologies How are you all !!   </h1>
-<h2> we sucessfully Deployed our web application on tomcat server </h2>
-<h2> we sucessfully Deployed our web application on tomcat server </h2>
+<Html>    
+<Head>  
+<title>  
+Example of center and BR tag  
+</title>  
+</Head>  
+<Body>   
+<!-- In this example we use the center tag which specify the content at centre of the webpage.-->    
+<center>  
+Welcome to RS & Ashwik Technologies...! <br> <!-- The BR tag is used to break a line. -->  
+For DevOps learning <br>   
+Here you can master in all DevOps Tools <!-- Here BR tag is not used, so the next statement is in continuous with one space after this statement. --> 
+</center>
+ <br>  
+</Body>  
+</Html>  
 
 
 
