@@ -13,6 +13,7 @@ Example of center and BR tag
 Here you can master in all DevOps Tools
  <h3> we sucessfully Deployed our web application on tomcat server </h3>
   <h3> we sucessfully Deployed our web application on tomcat server </h3>
+ <h3> we sucessfully Deployed our web application on tomcat server </h3>
  <h3> we sucessfully Deployed our web application on tomcat server </h3><!-- Here BR tag is not used, so the next statement is in continuous with one space after this statement. --> 
 </center>
  <br>  
